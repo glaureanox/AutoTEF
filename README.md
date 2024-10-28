@@ -1,1 +1,1 @@
-Repositório destinado para salvar processos do sistema SAP que estão sendo automatizados.
+Repository intended to save processes from the SAP system that are being automated.
